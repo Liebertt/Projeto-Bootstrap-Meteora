@@ -18,7 +18,7 @@ https://liebertt.github.io/Projeto-Bootstrap-Meteora/
 <br>
 <b>Aulas: </b>
 <ul>
-  <li>Avançado no Bootstrap</li>
+  <li>Avançando no Bootstrap</li>
   <li>Breakpoints e Grid no Bootstrap</li>
   <li>Flexbox e ícones no Bootstrap</li>
   <li>Inserindo estilos</li>
