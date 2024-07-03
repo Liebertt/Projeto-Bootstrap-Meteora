@@ -5,6 +5,10 @@
 <b>Aqui está o link da página:</b>
 https://liebertt.github.io/Projeto-Bootstrap-Meteora/
 <br>
+<b>Versão do Figma:</b>
+https://www.figma.com/file/TT8Uq6LmVELALMKs4G4HE2/Meteora---Projeto-Bootstrap-5?node-id=2386%3A2430&t=k7CWzKKFpothsH69-0
+
+<br>
 <b>Assuntos que serão abordados no curso: </b>
 
 <ul>
