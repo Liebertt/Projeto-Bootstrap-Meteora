@@ -13,3 +13,14 @@ https://liebertt.github.io/Projeto-Bootstrap-Meteora/
   <li>Implemente acessibilidade para leitores de tela</li>
   <li>Posicione elementos utilizando soluções com Grid e Flexbox do Bootstrap</li>
 </ul>
+<br>
+<br>
+<b>Aulas: </b>
+<ul>
+  <li>Avançado no Bootstrap</li>
+  <li>Breakpoints e Grid no Bootstrap</li>
+  <li>Flexbox e ícones no Bootstrap</li>
+  <li>Inserindo estilos</li>
+  <li>Acessibilidade com Bootstrap</li>
+</ul>
+
