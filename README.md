@@ -4,3 +4,12 @@
 
 <b>Aqui está o link da página:</b>
 https://liebertt.github.io/Projeto-Bootstrap-Meteora/
+
+<b>Assuntos que serão abordados no curso: </b>
+<ul>
+  <li>Compreenda a utilização da ferramenta Bootstrap na versão 5</li>
+  <li>Saiba como aplicar responsividade em imagens e componentes</li>
+  <li>Aprenda a aplicar temas de cores do Bootstrap em um projeto</li>
+  <li>Implemente acessibilidade para leitores de tela</li>
+  <li>Posicione elementos utilizando soluções com Grid e Flexbox do Bootstrap</li>
+</ul>
