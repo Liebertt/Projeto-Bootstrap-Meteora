@@ -18,10 +18,45 @@ https://liebertt.github.io/Projeto-Bootstrap-Meteora/
 <br>
 <b>Aulas: </b>
 <ul>
-  <li>Avançando no Bootstrap</li>
-  <li>Breakpoints e Grid no Bootstrap</li>
-  <li>Flexbox e ícones no Bootstrap</li>
-  <li>Inserindo estilos</li>
-  <li>Acessibilidade com Bootstrap</li>
+  <li><b><i>Avançando no Bootstrap</i></b></li>
+  <ul>
+  <li>Integrar o Bootstrap a um projeto;</li>
+  <li>Analisar a documentação e replicar em um projeto componentes prontos que ela oferece;</li>
+  <li>Conferir como modificar componentes através das classes do Bootstrap;</li>
+  <li>Entender o contexto histórico no qual o Bootstrap foi criado.</li>
+  </ul>
+  <br>
+  <li><b><i>Breakpoints e Grid no Bootstrap</i></b></li>
+  <ul>
+  <li>Aplicar sistema de Grids do Bootstrap para organizar elementos de forma responsiva;</li>
+  <li>Conhecer e aplicar classes do Bootstrap para definir altura e largura;</li>
+  <li>Explorou a documentação do Bootstrap, e inseriu tema de cards prontos ao projeto;</li>
+  <li>Modificou tema de cards prontos do Bootstrap para se adequarem ao projeto.</li>
+  </ul>
+  <br>
+  <li><b><i>Flexbox e ícones no Bootstrap</i></b></li>
+  <ul>
+  <li>Integrar a biblioteca de ícones do Bootstrap, Bootstrap Icons, ao projeto;</li>
+  <li>Entendeu como encontrar e inserir ícones em um projeto na prática;</li>
+  <li>Conheceu classes do Bootstrap para definir espaçamento;</li>
+  <li>Entendeu na prática como alterar fontes de ícones e textos explorando a documentação do Bootstrap;</li>
+  <li>Conheceu e aplicou classes do Flexbox no Bootstrap ao projeto;</li>
+  <li>Finalizou o Wireframe do projeto Meteora.</li>
+  </ul>
+  <br>
+  <li><b><i>Inserindo estilos</i></b></li>
+  <ul>
+  <li>Aplicar imagens de forma responsiva em um projeto unindo classes de Breakpoint e Display do Bootstrap;</li>
+  <li>Consultar o tema de cores que o Bootstrap oferece e implementar no projeto como background;</li>
+  <li>Analisar limitações do Bootstrap na oferta de cores, e resolveu a limitação recorrendo ao CSS.</li>
+  </ul>
+  <br>
+  <li><b><i>Acessibilidade com Bootstrap</i></b></li>
+  <ul>
+  <li>Refatorar o código para tornar o projeto acessível para leitores de tela;</li>
+  <li>Conheceu a documentação de acessibilidade do Bootstrap;</li>
+  <li>Implementou classes de acessibilidade do Bootstrap no projeto;</li>
+  <li>Finalizou o projeto Meteora.</li>
+  </ul>
 </ul>
 
