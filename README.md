@@ -8,7 +8,10 @@ https://liebertt.github.io/Projeto-Bootstrap-Meteora/
 <br>
 <b>Versão do Figma:</b>
 https://www.figma.com/design/TT8Uq6LmVELALMKs4G4HE2/Meteora---Projeto-Bootstrap-5?node-id=2386-3188&t=UWcrtpKowVlZTFMS-0
-
+<br>
+<br>
+<b>Instrutor do curso: </b>
+<p>Luan Alves</p>
 <br>
 <b>Assuntos que serão abordados no curso: </b>
 
