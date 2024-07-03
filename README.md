@@ -7,7 +7,7 @@ https://liebertt.github.io/Projeto-Bootstrap-Meteora/
 <br>
 <br>
 <b>Versão do Figma:</b>
-https://encurtador.com.br/Zcafv
+https://www.figma.com/design/TT8Uq6LmVELALMKs4G4HE2/Meteora---Projeto-Bootstrap-5?node-id=2386-3188&t=UWcrtpKowVlZTFMS-0
 
 <br>
 <b>Assuntos que serão abordados no curso: </b>
