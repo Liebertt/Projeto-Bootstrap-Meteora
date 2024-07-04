@@ -1,8 +1,6 @@
 # Projeto Bootstrap Meteora
 
-https://github.com/Liebertt/Projeto-Bootstrap-Meteora/assets/105327109/9d7e4505-441e-4ce2-89d0-aec8ad96b0b3
-
-<img src="/assets/img/arquivo.gif">
+<img src="assets/Meteora-.gif">
 
 <b>Aqui está o link da página:</b>
 https://liebertt.github.io/Projeto-Bootstrap-Meteora/
