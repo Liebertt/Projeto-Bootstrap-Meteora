@@ -1,6 +1,6 @@
 # Projeto Bootstrap Meteora
-![image](https://github.com/Liebertt/Projeto-Bootstrap-Meteora/assets/105327109/7a93da40-be34-4d85-9d0b-290ce7aa6e07)
 
+https://github.com/Liebertt/Projeto-Bootstrap-Meteora/assets/105327109/d67d0b33-1087-41ad-82e7-930be91cbf87
 
 <b>Aqui está o link da página:</b>
 https://liebertt.github.io/Projeto-Bootstrap-Meteora/
