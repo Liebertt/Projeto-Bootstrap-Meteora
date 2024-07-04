@@ -13,6 +13,11 @@ https://www.figma.com/design/TT8Uq6LmVELALMKs4G4HE2/Meteora---Projeto-Bootstrap-
 <b>Instrutor do curso: </b>
 <p>Luan Alves</p>
 <br>
+<b>Stack utilizada - </b>
+<b>Front-end:</b> <br>
+HTML, CSS, Bootstrap
+<br>
+<br>
 <b>Assuntos que serão abordados no curso: </b>
 
 <ul>
